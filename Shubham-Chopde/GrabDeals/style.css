@@ -265,7 +265,7 @@ header:hover~section {
   display: flex;
   list-style: none;
   font-size: 5rem;
-  margin-right: 8rem;
+  margin-right: 28rem;
   align-items: center;
   /* border: 2px solid red; */
 }

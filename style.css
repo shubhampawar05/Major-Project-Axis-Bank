@@ -45,6 +45,7 @@ header:hover~section {
 .navbar-top {
     display: flex;
     align-items: center;
+    margin: 0 1.5rem;
 }
 
 .nav-list {
@@ -293,7 +294,7 @@ header:hover~section {
     display: flex;
     list-style: none;
     font-size: 5rem;
-    margin-right: 7rem;
+    margin-right: 28rem;
     align-items: center;
     /* border: 2px solid red; */
 }
